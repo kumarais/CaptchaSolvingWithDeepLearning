@@ -40,3 +40,9 @@ After 4 iterations over the training and testing data set, we hit nearly 98.78% 
 
 # CONCLUSION
 
+We are successful in implementing CAPTCHA recognition and prediction using Neural Networks on our dataset.
+After training and testing our dataset with CNN, KNN, Random forest classifier algorithms, we got good accuracy of over 98%. 
+Even though the accuracy was satisfactory in this case, KNN and Random forest classifier algorithms become significantly slower as the volume of data increases making them an impractical choice in environments where predictions need to be made rapidly. 
+Hence CNN emerges as the algorithm of choice.
+
+
